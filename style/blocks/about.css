@@ -213,6 +213,11 @@
   border-radius: 5px;
   overflow: hidden;
   height: 394px;
+  margin-right: 22px;
+}
+
+.news__item:last-child{
+margin-right: 0px;
 }
 
 .news__img{
