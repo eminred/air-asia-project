@@ -112,6 +112,7 @@
   width: 362px;
   image-rendering: optimizeQuality;
   border-radius: 5px 5px 0px 0px;
+  object-fit: cover;
 }
 
 .offers__content{
@@ -290,7 +291,7 @@
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
-  line-height: 21px;
+  line-height: 30px;
 }
 
 .paginator__display{
