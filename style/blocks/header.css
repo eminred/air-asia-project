@@ -1,8 +1,21 @@
 .header {
-  position: relative;
-  height: 77px;
+  display: flex;
+  justify-content: space-between; 
+  align-items: center;
+  padding-top: 25px;
+  align-content: flex-start;
+  margin-bottom: 115px;
 } 
 
+.header__col {
+display: flex;
+align-items: center;
+}
 
+.header__col--align--right {
+  justify-content: flex-end;
+}
 
-
+.header--service{
+  margin-bottom: 54px;
+}
