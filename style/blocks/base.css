@@ -139,13 +139,14 @@ img {
 }
 
 .contacts__info {
-	float: right;
+	/*float: right;*/
 	font-style: normal;
 	font-weight: 400;
 	font-size: 13px;
 	line-height: 20px;
 	text-decoration-line: underline;
 	width: 97px;
+	margin-left: 93px;
 }
 
 .title {
@@ -186,11 +187,10 @@ img {
 	padding-top: 10px;
 	margin-left: 230px;*/
 	margin-right: 74px;
+	display: flex;
 }
 
 .social__item{
-	display: inline-block;
-	vertical-align: middle;
 	margin-right: 10px;
 }
 

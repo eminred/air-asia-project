@@ -8,7 +8,7 @@
 }
 
   .about__img { 
-    float: left;
+    /*float: left;*/
     width: 490px;
     border-radius: 5px;
   }

@@ -2,7 +2,13 @@
   background: url("../../img/elephant.jpeg")left 50% top no-repeat;
 }
 
-.hello__title--service{
+.desc__container{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.desc__title{
   width: 259px;
   font-style: normal;
   font-weight: 700;
