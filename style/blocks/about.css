@@ -1,5 +1,5 @@
 .about {
-  margin-top: 152px;
+  margin-top: 142px;
   height: 552px;
 }
 
@@ -13,6 +13,11 @@
     border-radius: 5px;
   }
 
+  .about__img-main{
+    border-radius: 5px;
+    height: 505px;
+    object-fit: cover;
+  }
 
 .about__description-content {
   width: 785px;
@@ -22,7 +27,7 @@
   padding-left: 81px;
   padding-bottom: 66px;
   border-radius: 5px;
-  margin-left: -142px;
+  margin-left: -137px;
   margin-top: 100px;
 }
 
@@ -46,7 +51,7 @@
 }
 
 .about__button{
-  margin-top: 37px;
+  margin-top: 42px;
 }
 
 /*.hello__container{

@@ -22,5 +22,10 @@
 
 .footer__container-content{
   border-top: 1px solid #353538;
-  margin-top: 50px;
+  margin-top: 57px; 
+  padding-top: 12px;
+}
+
+.footer__container-content-service{
+padding-top: 14px;
 }
