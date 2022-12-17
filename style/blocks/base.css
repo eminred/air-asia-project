@@ -208,7 +208,7 @@ transition: opacity .4s;
 	width: 0;
 	height: 0;
 	border-bottom-color: #CDD1D2;
-	transform: translate(129px, -12px);
+	transform: translate(129px, -11px);
 	position: absolute;
 	opacity: 0;
 }
