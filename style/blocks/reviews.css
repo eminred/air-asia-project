@@ -157,6 +157,9 @@ line-height: 27px;
   margin-bottom: 25px;
 }
 
+.form__row--up {
+  min-height: 71px;
+}
 
 .form__input{
   flex: 1;
