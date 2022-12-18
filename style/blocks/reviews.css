@@ -63,15 +63,20 @@ padding-top: 10px;
   align-items: center;
   font-size: 24px;
   font-weight: bold;
-  color: #2E77A4 ;
   margin-bottom: 11px;
-  text-decoration-line: underline;
 }
 
 
 .review__user:after{
   content: url("../../img/vk-reviews.png");
   height: 29px;
+  transform: translateX(5px);
+}
+
+.review__user:hover{
+  color: #2E77A4 ;
+  text-decoration-line: underline;
+  transition: .2s;
 }
 
 .avatar{
@@ -164,12 +169,13 @@ line-height: 27px;
   /*color: #1A1B1E;*/
   border: none;
   cursor: pointer;
+  outline: none;
 }
 
 .form__input:focus{
-  color: #1A1B1E;
-}
-
+  /* color: #1A1B1E;*/
+  border: 1px solid  red;
+  }
 
 .form__input::placeholder{
   color: #666;

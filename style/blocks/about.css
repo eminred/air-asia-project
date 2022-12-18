@@ -29,6 +29,7 @@
   border-radius: 5px;
   margin-left: -137px;
   margin-top: 100px;
+  cursor: pointer;
 }
 
 .about__description .title--dark{
@@ -53,6 +54,12 @@
 .about__button{
   margin-top: 42px;
 }
+
+.about__button:hover{
+  background: #DA0100;
+  box-shadow: 0px 2px 4px rgba(218, 1, 0, 0.3);
+  transition: 1s;
+  }
 
 /*.hello__container{
   position: relative;

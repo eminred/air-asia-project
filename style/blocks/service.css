@@ -122,6 +122,12 @@ color: #9A9A9A;
   background: #FFFFFF;
 }
 
+.service__button--white:hover{
+  color: #fff;
+	background: #F5170E;
+  transition: .4s;
+}
+
 .services__item{
   margin-bottom: 40px;
 }
@@ -137,10 +143,10 @@ color: #9A9A9A;
 
 }
 
-.paginator--theme--light .paginator__item--active .pager__link{
+/*.paginator--theme--light .paginator__item--active .pager__link{
   color: #FFFFFF;
   background: #F5170E;
-}
+}*/
 
 .paginator--theme--light .paginator__item--active .pager__link:hover{
   color: #FFFFFF;
