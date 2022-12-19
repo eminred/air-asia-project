@@ -162,6 +162,7 @@ img {
 .dropdown {
   position: relative;
   display: inline-block;
+cursor: pointer;	
 }
 
 /*.dropdown:hover .dropdown__link {
