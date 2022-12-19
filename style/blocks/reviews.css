@@ -46,6 +46,7 @@ margin-bottom: 0px;
   padding: 50px 30px;
   background: #F4F5F5;
   border-radius: 5px;
+  cursor: pointer;
 }
 
 .review__header{
