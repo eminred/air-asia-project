@@ -199,7 +199,7 @@ padding-top: 35px;
   .news__list{
   margin-bottom: 55px;
   display: flex;
-
+  cursor: pointer;
   }
 
   .single-news{
@@ -275,6 +275,7 @@ margin-right: 0px;
 
 .paginator__display{
   margin-right: 36px;
+  cursor: pointer;
 } 
 
 .paginator__list{
