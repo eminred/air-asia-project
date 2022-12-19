@@ -10,7 +10,6 @@
   flex-direction: column;
   align-items: center;
   background: url("../../img/shades.png") center no-repeat;
-  cursor: pointer;
 }
 
 
@@ -20,6 +19,7 @@
   font-size: 18px;
   line-height: 25px;
   margin-bottom: 50px;
+  cursor: pointer;
 }
 
 .welcome__container{
@@ -69,6 +69,7 @@ to{
 
 .logo__img--welcome{
   padding-top: 130px;
+  cursor: pointer;
 }
 
 
