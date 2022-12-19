@@ -172,7 +172,7 @@ cursor: pointer;
 .dropdown:hover .dropdown__menu {
   left: 0;
   opacity: 1;
-	transition: opacity .4s;
+	transition: opacity .1s;
 }
 
 
@@ -201,7 +201,7 @@ cursor: pointer;
 
 .dropdown:hover .dropdown__triangle {
 opacity: 1;
-transition: opacity .4s;
+transition: opacity .1s;
 }
 
 .dropdown__triangle{
